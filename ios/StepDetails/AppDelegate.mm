@@ -1,5 +1,5 @@
 #import "AppDelegate.h"
-
+#import "RCTAppleHealthKit.h"
 #import <React/RCTBundleURLProvider.h>
 
 @implementation AppDelegate

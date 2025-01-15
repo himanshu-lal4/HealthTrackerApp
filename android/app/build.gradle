@@ -80,7 +80,7 @@ android {
     namespace "com.stepdetails"
     defaultConfig {
         applicationId "com.stepdetails"
-        minSdkVersion rootProject.ext.minSdkVersion
+        minSdkVersion 33
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
         versionName "1.0"
